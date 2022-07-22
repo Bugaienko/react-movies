@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bugaienko/react-movies/static/css/main.787c9abd.css",
+    "main.js": "/Bugaienko/react-movies/static/js/main.6398edf9.js",
+    "index.html": "/Bugaienko/react-movies/index.html",
+    "main.787c9abd.css.map": "/Bugaienko/react-movies/static/css/main.787c9abd.css.map",
+    "main.6398edf9.js.map": "/Bugaienko/react-movies/static/js/main.6398edf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.787c9abd.css",
+    "static/js/main.6398edf9.js"
+  ]
+}
